@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/JQuery
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/JQuery/AllTests.php
+END
+AutoCompleteActionHelperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/JQuery/AutoCompleteActionHelperTest.php
+END
+JQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/JQuery/JQueryTest.php
+END

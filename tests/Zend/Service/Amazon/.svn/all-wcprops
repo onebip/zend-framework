@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon
+END
+AbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/AbstractTest.php
+END
+OnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/OnlineTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/AllTests.php
+END
+OfflineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/OfflineTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/Db/Adapter
+END
+FirebirdTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/Db/Adapter/FirebirdTest.php
+END
+SkipTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24485/standard/tags/release-1.11.11/extras/tests/ZendX/Db/Adapter/SkipTests.php
+END

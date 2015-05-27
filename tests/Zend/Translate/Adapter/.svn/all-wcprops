@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter
+END
+TbxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/TbxTest.php
+END
+ArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/ArrayTest.php
+END
+IniTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/IniTest.php
+END
+XmlTmTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/XmlTmTest.php
+END
+GettextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/GettextTest.php
+END
+QtTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/QtTest.php
+END
+TmxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/TmxTest.php
+END
+XliffTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/XliffTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/AllTests.php
+END
+CsvTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Translate/Adapter/CsvTest.php
+END

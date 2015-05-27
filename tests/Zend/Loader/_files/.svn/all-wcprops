@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Loader/_files
+END
+AutoloaderClosure.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Loader/_files/AutoloaderClosure.php
+END
+ParseError.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Loader/_files/ParseError.php
+END
+Zend_LoaderTest.phar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Loader/_files/Zend_LoaderTest.phar
+END

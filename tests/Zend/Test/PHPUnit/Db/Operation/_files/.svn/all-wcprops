@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/_files
+END
+insertFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/_files/insertFixture.xml
+END
+truncateFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/_files/truncateFixture.xml
+END

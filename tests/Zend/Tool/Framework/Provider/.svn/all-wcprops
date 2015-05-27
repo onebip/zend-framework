@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Provider
+END
+RepositoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Provider/RepositoryTest.php
+END
+SignatureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Provider/SignatureTest.php
+END
+AbstractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Provider/AbstractTest.php
+END

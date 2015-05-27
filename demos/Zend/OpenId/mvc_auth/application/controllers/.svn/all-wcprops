@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/OpenId/mvc_auth/application/controllers
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/OpenId/mvc_auth/application/controllers/IndexController.php
+END
+ErrorController.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/OpenId/mvc_auth/application/controllers/ErrorController.php
+END

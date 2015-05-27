@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1
+END
+Interface1.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1/Interface1.php
+END
+ClassNonexistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1/ClassNonexistent.php
+END
+Class1.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1/Class1.php
+END
+Class3.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1/Class3.php
+END
+Class4.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/_files/_testDir1/Class4.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/Authentication
+END
+V1Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/Authentication/V1Test.php
+END
+V2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/Authentication/V2Test.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/Authentication/AllTests.php
+END
+S3Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/Amazon/Authentication/S3Test.php
+END

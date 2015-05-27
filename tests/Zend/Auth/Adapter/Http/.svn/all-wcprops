@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Auth/Adapter/Http
+END
+AuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Auth/Adapter/Http/AuthTest.php
+END
+ProxyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Auth/Adapter/Http/ProxyTest.php
+END
+ObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Auth/Adapter/Http/ObjectTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Auth/Adapter/Http/AllTests.php
+END

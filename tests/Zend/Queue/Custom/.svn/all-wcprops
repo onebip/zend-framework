@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Queue/Custom
+END
+DbForUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Queue/Custom/DbForUpdate.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Queue/Custom/Message.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Queue/Custom/Queue.php
+END
+Messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Queue/Custom/Messages.php
+END

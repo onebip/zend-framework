@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Paginator/ScrollingStyle
+END
+AllTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Paginator/ScrollingStyle/AllTest.php
+END
+JumpingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Paginator/ScrollingStyle/JumpingTest.php
+END
+SlidingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Paginator/ScrollingStyle/SlidingTest.php
+END
+ElasticTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Paginator/ScrollingStyle/ElasticTest.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http
+END
+CookieTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/CookieTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/AllTests.php
+END
+UserAgentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/UserAgentTest.php
+END
+ResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/ResponseTest.php
+END
+CookieJarTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/CookieJarTest.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Http/index.php
+END

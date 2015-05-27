@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha
+END
+DumbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha/DumbTest.php
+END
+FigletTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha/FigletTest.php
+END
+ReCaptchaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha/ReCaptchaTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha/AllTests.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Captcha/ImageTest.php
+END

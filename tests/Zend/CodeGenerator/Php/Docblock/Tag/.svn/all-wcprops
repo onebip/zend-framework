@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/Docblock/Tag
+END
+ReturnTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/Docblock/Tag/ReturnTest.php
+END
+ParamTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/Docblock/Tag/ParamTest.php
+END

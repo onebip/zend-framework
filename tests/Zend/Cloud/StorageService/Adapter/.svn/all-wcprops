@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter
+END
+NirvanixTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter/NirvanixTest.php
+END
+WindowsAzureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter/WindowsAzureTest.php
+END
+FileSystemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter/FileSystemTest.php
+END
+S3Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter/S3Test.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Cloud/StorageService/Adapter/AllTests.php
+END

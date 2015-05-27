@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Client
+END
+RequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Client/RequestTest.php
+END
+ResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Tool/Framework/Client/ResponseTest.php
+END

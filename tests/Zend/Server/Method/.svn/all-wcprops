@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Server/Method
+END
+PrototypeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Server/Method/PrototypeTest.php
+END
+DefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Server/Method/DefinitionTest.php
+END
+CallbackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Server/Method/CallbackTest.php
+END
+ParameterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Server/Method/ParameterTest.php
+END

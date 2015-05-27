@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/AllTests.php
+END
+DeleteAllTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/DeleteAllTest.php
+END
+InsertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/InsertTest.php
+END
+TruncateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Test/PHPUnit/Db/Operation/TruncateTest.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files
+END
+ssl_pub.cert
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/ssl_pub.cert
+END
+encryptedtoken_bad_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedtoken_bad_type.xml
+END
+encryptedkey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedkey.xml
+END
+encryptedkey_bad_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedkey_bad_block.xml
+END
+encryptedkey_missing_enc_algo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedkey_missing_enc_algo.xml
+END
+ssl_private.cert
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/ssl_private.cert
+END
+encryptedkey_missing_encryptionmethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedkey_missing_encryptionmethod.xml
+END
+signedToken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/signedToken.xml
+END
+encryptedtoken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedtoken.xml
+END
+encryptedtoken2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/encryptedtoken2.xml
+END
+signedToken_bad_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/signedToken_bad_type.xml
+END
+security_token_bad_keyref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/InfoCard/_files/security_token_bad_keyref.xml
+END

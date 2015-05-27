@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/FileTest.php
+END
+DocblockTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/DocblockTest.php
+END
+MethodTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/MethodTest.php
+END
+ParameterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/ParameterTest.php
+END
+PropertyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/PropertyTest.php
+END
+ClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/ClassTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/CodeGenerator/Php/AllTests.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Books
+END
+CollectionFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Books/CollectionFeedTest.php
+END
+VolumeEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Books/VolumeEntryTest.php
+END
+VolumeFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Books/VolumeFeedTest.php
+END
+CollectionEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Books/CollectionEntryTest.php
+END

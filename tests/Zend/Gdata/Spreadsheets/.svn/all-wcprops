@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets
+END
+CellQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/CellQueryTest.php
+END
+ColCountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/ColCountTest.php
+END
+CustomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/CustomTest.php
+END
+SpreadsheetFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/SpreadsheetFeedTest.php
+END
+ListEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/ListEntryTest.php
+END
+WorksheetEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/WorksheetEntryTest.php
+END
+CellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/CellTest.php
+END
+ListFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/ListFeedTest.php
+END
+WorksheetFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/WorksheetFeedTest.php
+END
+RowCountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/RowCountTest.php
+END
+CellEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/CellEntryTest.php
+END
+ListQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/ListQueryTest.php
+END
+CellFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/CellFeedTest.php
+END
+DocumentQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Gdata/Spreadsheets/DocumentQueryTest.php
+END

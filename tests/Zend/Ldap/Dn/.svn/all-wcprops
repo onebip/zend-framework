@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn
+END
+ImplodingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/ImplodingTest.php
+END
+CreationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/CreationTest.php
+END
+ModificationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/ModificationTest.php
+END
+EscapingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/EscapingTest.php
+END
+ExplodingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/ExplodingTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/AllTests.php
+END
+MiscTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Ldap/Dn/MiscTest.php
+END

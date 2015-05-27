@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dojo
+END
+DataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dojo/DataTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dojo/AllTests.php
+END
+DojoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dojo/DojoTest.php
+END
+BuildLayerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dojo/BuildLayerTest.php
+END

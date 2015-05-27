@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Oauth/Oauth/Token
+END
+AccessTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Oauth/Oauth/Token/AccessTest.php
+END
+AuthorizedRequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Oauth/Oauth/Token/AuthorizedRequestTest.php
+END
+RequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Oauth/Oauth/Token/RequestTest.php
+END

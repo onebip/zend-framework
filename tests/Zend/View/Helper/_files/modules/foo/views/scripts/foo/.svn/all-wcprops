@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/Helper/_files/modules/foo/views/scripts/foo
+END
+bar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/Helper/_files/modules/foo/views/scripts/foo/bar.phtml
+END
+nest.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/Helper/_files/modules/foo/views/scripts/foo/nest.phtml
+END
+nested.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/Helper/_files/modules/foo/views/scripts/foo/nested.phtml
+END

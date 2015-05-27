@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates
+END
+testParent.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates/testParent.phtml
+END
+test.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates/test.phtml
+END
+testStrictVars.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates/testStrictVars.phtml
+END
+testSubTemplate.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates/testSubTemplate.phtml
+END
+testZf995.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/View/_templates/testZf995.phtml
+END

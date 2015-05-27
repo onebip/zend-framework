@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden
+END
+AllOfflineTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/AllOfflineTests.php
+END
+SecurityTokenServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/SecurityTokenServerTest.php
+END
+AllOnlineTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/AllOnlineTests.php
+END
+IpLocationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/IpLocationTest.php
+END
+VoiceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/VoiceCallTest.php
+END
+OfflineSecurityTokenServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineSecurityTokenServerTest.php
+END
+ConferenceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/ConferenceCallTest.php
+END
+OfflineIpLocationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineIpLocationTest.php
+END
+OfflineConferenceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineConferenceCallTest.php
+END
+OfflineLocalSearchParametersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineLocalSearchParametersTest.php
+END
+SendSmsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/SendSmsTest.php
+END
+OfflineCredentialTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineCredentialTest.php
+END
+SmsValidationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/SmsValidationTest.php
+END
+LocalSearchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/LocalSearchTest.php
+END
+OfflineClientTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineClientTest.php
+END
+BaseUserServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/BaseUserServiceTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/AllTests.php
+END
+OfflineBaseUserServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Service/DeveloperGarden/OfflineBaseUserServiceTest.php
+END

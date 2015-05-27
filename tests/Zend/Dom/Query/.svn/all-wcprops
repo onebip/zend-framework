@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dom/Query
+END
+ResultTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dom/Query/ResultTest.php
+END
+Css2XpathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Dom/Query/Css2XpathTest.php
+END

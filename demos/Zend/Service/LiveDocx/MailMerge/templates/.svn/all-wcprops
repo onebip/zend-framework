@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates
+END
+delete-all.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/delete-all.php
+END
+template-exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/template-exists.php
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/list.php
+END
+template-1.docx
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/template-1.docx
+END
+template-2.docx
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/template-2.docx
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/upload.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/MailMerge/templates/download.php
+END

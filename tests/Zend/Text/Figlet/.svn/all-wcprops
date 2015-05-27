@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet
+END
+WordWrapLeftToRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/WordWrapLeftToRight.figlet
+END
+WordWrapRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/WordWrapRightToLeft.figlet
+END
+SmushForced.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/SmushForced.figlet
+END
+CharWrapRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/CharWrapRightToLeft.figlet
+END
+CharWrapLeftToRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/CharWrapLeftToRight.figlet
+END
+StandardRightToLeftAlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardRightToLeftAlignRight.figlet
+END
+StandardAlignLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardAlignLeft.figlet
+END
+StandardRightToLeftAlignCenter.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardRightToLeftAlignCenter.figlet
+END
+NoSmush.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/NoSmush.figlet
+END
+GzippedFont.gz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/GzippedFont.gz
+END
+ParagraphOff.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/ParagraphOff.figlet
+END
+ParagraphOn.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/ParagraphOn.figlet
+END
+StandardRightToLeftAlignLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardRightToLeftAlignLeft.figlet
+END
+SmushDefault.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/SmushDefault.figlet
+END
+NoSmushRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/NoSmushRightToLeft.figlet
+END
+CorrectEncoding.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/CorrectEncoding.figlet
+END
+StandardAlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardAlignRight.figlet
+END
+InvalidFont.flf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/InvalidFont.flf
+END
+StandardAlignCenter.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/StandardAlignCenter.figlet
+END
+OutputWidth50AlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/OutputWidth50AlignRight.figlet
+END
+GenerateDummies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/tests/Zend/Text/Figlet/GenerateDummies.sh
+END

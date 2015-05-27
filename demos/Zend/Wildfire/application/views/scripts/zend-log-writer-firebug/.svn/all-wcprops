@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts/zend-log-writer-firebug
+END
+test-logging.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts/zend-log-writer-firebug/test-logging.phtml
+END
+test-grouped-logging.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts/zend-log-writer-firebug/test-grouped-logging.phtml
+END
+test-error-controller.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts/zend-log-writer-firebug/test-error-controller.phtml
+END
+test-large-message.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts/zend-log-writer-firebug/test-large-message.phtml
+END

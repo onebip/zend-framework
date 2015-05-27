@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/common.php
+END
+configuration.php.dist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/configuration.php.dist
+END
+Helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/Helper.php
+END
+check-environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24484/standard/tags/release-1.11.11/demos/Zend/Service/LiveDocx/check-environment.php
+END
