@@ -1,43 +1,0 @@
-10
-
-dir
-25301
-http://framework.zend.com/svn/framework/standard/tags/release-1.11.11/demos/Zend/Wildfire/application/views/scripts
-http://framework.zend.com/svn/framework
-
-
-
-2010-12-17T18:36:35.882545Z
-23532
-cadorn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-44c647ce-9c0f-0410-b52a-842ac1e357ba
-
-index
-dir
-
-error
-dir
-
-zend-log-writer-firebug
-dir
-
-zend-wildfire-plugin-firephp
-dir
-
-zend-db-profiler-firebug
-dir
-
